@@ -1,8 +1,5 @@
 # Splunksense
 SplunkSense is an AI-powered incident response platform that combines Dynatrace observability data with Splunk analytics and AI-driven workflows.
-# SplunkSense
-
-## Overview
 AI-powered incident investigation and remediation platform.
 
 ## Features
@@ -14,7 +11,7 @@ AI-powered incident investigation and remediation platform.
 - Audit logging
 
 ## Architecture
-![Architecture](architecture_diagram.png)
+![Architecture](architecture_diagram.pdf)
 
 ## Installation
 
