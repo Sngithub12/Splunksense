@@ -1,0 +1,22 @@
+Dynatrace
+    │
+    ▼
+Incident Ingestion
+    │
+    ▼
+SplunkSense AI Agent
+    │
+ ┌──┼───────────────┐
+ ▼  ▼               ▼
+MCP Logs      Metrics Analysis
+Queries        Forecasting
+ │               │
+ └──────┬────────┘
+        ▼
+Root Cause Engine
+        ▼
+AI Assistant
+        ▼
+Remediation
+        ▼
+Audit Log
